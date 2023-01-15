@@ -137,29 +137,42 @@
 
 4. **Use of the Third Party Resources**
 
-<table>
+ <table>
   <tr>
    <td>
 <strong>Web Elements</strong>
    </td>
    <td><strong>Name</strong>
    </td>
-   <td><strong>Use of the Third Party Resources</strong>
-   </td>
-   <td><strong>Modification (if any)</strong>
+   <td><strong>Use of the Third Party Resources and Modification (if any)</strong>
    </td>
   </tr>
   <tr>
-   <td>
+   <td>Navigation Bar
    </td>
-   <td>Muhammad Faris Ikhwan Bin Othman, Muhammad Asyraf Bin Mohd Radzi, Muhammad Aqil Bin Ibrahim
+   <td>Muhammad Faris Ikhwan Bin Othman
    </td>
-   <td>
+   <td>W3schools Javascript has been used in the navigation bar
    </td>
-   <td>
+  </tr>
+  <tr>
+   <td>Image Zoomed In
+   </td>
+   <td>Muhammad Asyraf Bin Mohd Radzi
+   </td>
+   <td>W3schools Javascript has been used for the function to zoom in the image
+   </td>
+  </tr>
+  <tr>
+   <td>Webpage Division
+   </td>
+   <td>Muhammad Aqil Bin Ibrahim
+   </td>
+   <td>W3schools CSS is also been used in this website for the webpage layout
    </td>
   </tr>
 </table>
+
 
 
 
