@@ -76,6 +76,7 @@
 
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
+![WebTech Sitemap](https://user-images.githubusercontent.com/100497221/212549448-77bf04f8-ac24-4e1d-a45b-1d5bb68d53ef.png)
 
 ![alt_text](images/image2.png "image_tooltip")
 
